@@ -30,7 +30,7 @@
             <th>classes</th>
         </tr>
     </thead>
-    <tbody>
+    
     <tr>
       <td> 2020-2023 </td>
       <td>  completed twelth</td>
@@ -38,7 +38,7 @@
     <tr>
         <td>2023</td>
         <td> studying engineering</td>
-    </tbody>
+ 
     </tr>
 
 </table>
@@ -65,4 +65,4 @@
 <br>
 <a href="hobbies.html">Hobbies</a><br>
 <a href="contact.html">contact info</a>
-    </body>
+   
