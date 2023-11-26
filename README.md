@@ -9,7 +9,10 @@
                 <td>  <img src="sania.jpg" width="120" alt="Sania">  </td>
                 <td> <h1><u>Sania Mary Dixon</u></h1><p><h2><em>My name is Sania and I am from Kannur in <a href="www.kerala.com">Kerala.</a><br> Is a well known place for its beauty.
                     <br>Lives with my family.</em></h2></p>
-                <p><h2><em>
+               
+            </tr>
+
+        </table>
        
 
 
