@@ -9,11 +9,9 @@
                 <td>  <img src="sania.jpg" width="120" alt="Sania">  </td>
                 <td> <h1><u>Sania Mary Dixon</u></h1><p><h2><em>My name is Sania and I am from Kannur in <a href="www.kerala.com">Kerala.</a><br> Is a well known place for its beauty.
                     <br>Lives with my family.</em></h2></p>
-               
-         
-       
+                  </tr>
 
-
+        </table>
 <hr size="2" noshade>
 <h2>born on 12-08-2005</h2>
 <h2>Favourite spot beach,malls</h2>
@@ -68,4 +66,5 @@
 <br>
 <a href="hobbies.html">Hobbies</a><br>
 <a href="contact.html">contact info</a>
-  
+    </body>
+</html>
