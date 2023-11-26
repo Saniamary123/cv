@@ -70,4 +70,4 @@
 <br>
 <a href="hobbies.html">Hobbies</a><br>
 <a href="contact.html">contact info</a>
-    </body>
+  
