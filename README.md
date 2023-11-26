@@ -8,7 +8,12 @@
             <tr>
                 <td>  <img src="sania.jpg" width="120" alt="Sania">  </td>
                 <td> <h1><u>Sania Mary Dixon</u></h1><p><h2><em>My name is Sania and I am from Kannur in <a href="www.kerala.com">Kerala.</a><br> Is a well known place for its beauty.
-                    <br>Lives with my family.</em>
+                    <br>Lives with my family.</em></h2></p>
+                <p><h2><em></h2></em></p></td>
+            </tr>
+
+        </table>
+       
 
 
 <hr size="2" noshade>
@@ -30,7 +35,7 @@
             <th>classes</th>
         </tr>
     </thead>
-    
+    <tbody>
     <tr>
       <td> 2020-2023 </td>
       <td>  completed twelth</td>
@@ -38,7 +43,7 @@
     <tr>
         <td>2023</td>
         <td> studying engineering</td>
- 
+    </tbody>
     </tr>
 
 </table>
@@ -65,4 +70,4 @@
 <br>
 <a href="hobbies.html">Hobbies</a><br>
 <a href="contact.html">contact info</a>
-   
+    </body>
